@@ -1,9 +1,19 @@
-# Lab 2
-functioning react native app. with a focus on flexbox and flux architecture
-
-## skills showcase
-- State utilization
-- Flux architecture
-- FlexBox styling
-- custom components
 # fluxarch
+functioning react native app. for mdd course. Assignment 2. 
+
+## Install
+install react native globally
+```
+npm install -g react-native-cli
+```
+
+install the dependencies
+```
+npm install
+```
+
+##Run
+run the app
+```
+react-native run-ios
+```
